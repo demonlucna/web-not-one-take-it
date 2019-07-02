@@ -1,0 +1,68 @@
+body{
+  font-family: 'Smythe', cursive;
+  background-image: url("http://getwallpapers.com/wallpaper/full/0/f/9/752675-cool-adventure-time-background-scenery-1947x1080-windows-7.jpg");
+}
+
+h1 {
+  color:#FFD700;
+  font-size: 60px;
+}
+
+#FoxTail {
+  text-align: center;
+}
+
+h2 {
+  color:#FFD700;
+  font-size: 35px;
+}
+
+h3{
+  color:#FFD700;
+  font-size: 25px;
+}
+h4{
+  font-size: 15px;
+}
+h6 {
+  color: #4c83e1;
+  font-size: 25px;
+}
+.cantiner{background color: blue;
+}
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+}
+
+.screen-reader-text:focus {
+  background-color: #eee;
+  clip: auto !important;
+  clip-path: none;
+  color: #444;
+  display: block;
+  font-size: 1em;
+  height: auto;
+  left: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000; /* Above WP toolbar. */
+}
+
+
+/* ul {
+  /* background-image: url("http://getwallpapers.com/wallpaper/full/0/f/9/752675-cool-adventure-time-background-scenery-1947x1080-windows-7.jpg"); */
+} */
